@@ -109,17 +109,17 @@ You will need:
 ## 🖼️ Feature Demonstration
 
 ### 💱 Currency Conversion Example
-<img src="assets/README/1.PNG" alt="Conversion Screenshot" width="600"/>
+<img src="assets/README/1-1.PNG" alt="Conversion Screenshot" width="600"/>
 
-<img src="assets/README/2.PNG" alt="Conversion Screenshot" width="600"/>
+<img src="assets/README/1-2.PNG" alt="Conversion Screenshot" width="600"/>
 
 <img src="assets/README/1-3.PNG" alt="Conversion Screenshot" width="600"/>
 
 ### 🕒 Conversion History with Timestamp
-<img src="assets/README/4.PNG" alt="Conversion Screenshot" width="600"/>
+<img src="assets/README/History.PNG" alt="Conversion Screenshot" width="600"/>
 
 ### ✅ Program Exit (Code 0)
-<img src="assets/README/5.PNG" alt="Conversion Screenshot" width="600"/>
+<img src="assets/README/Exit Code.PNG" alt="Conversion Screenshot" width="600"/>
 
 ---
 
